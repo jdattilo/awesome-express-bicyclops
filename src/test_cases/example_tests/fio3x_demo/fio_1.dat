@@ -1,0 +1,5 @@
+size: 10
+block_size: 4k 
+filename: /tmp/fio_1_.file
+output: /tmp/fio_1_.out
+rw: rw

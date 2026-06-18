@@ -1,0 +1,5 @@
+size: 50 
+block_size: 4k 
+filename: /tmp
+rw: w
+offset: 100

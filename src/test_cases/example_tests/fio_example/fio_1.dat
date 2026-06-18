@@ -1,0 +1,4 @@
+size: 100
+block_size: 4k 
+filename: /tmp
+rw: rw

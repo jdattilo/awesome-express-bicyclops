@@ -1,0 +1,6 @@
+size: 25 
+block_size: 8k 
+filename: /tmp/fio_2_.file
+output: /tmp/fio_2_.out
+rw: w
+offset: 100
